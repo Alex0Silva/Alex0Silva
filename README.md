@@ -1,6 +1,6 @@
 ## # 👨‍💻 Alex Silva
 
-![Ciência da Computação](https://img.shields.io/badge/Ciência_da_Computação-yellow?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D000&center=false&vCenter=false&width=400&lines=Ciência+da+Computação" />
 
 Sou estudante de Ciência da Computação, em busca da minha primeira oportunidade de estágio na área de TI.  
 Tenho foco em aprender programação e desenvolver minhas habilidades técnicas todos os dias.  
