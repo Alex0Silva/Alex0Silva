@@ -2,8 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B3FE4&width=400&lines=Ciencia+da+Computacao" />
 
 
-Sou estudante de Ciência da Computação, em busca da minha primeira oportunidade de estágio na área de TI.  
-Tenho foco em aprender programação e desenvolver minhas habilidades técnicas todos os dias.  
+Sou estudante de Ciência da Computação, em transição de carreira para a área de TI.  
+Estou focado em aprender programação e desenvolver minhas habilidades técnicas todos os dias.  
+Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe e contribuir com dedicação.  
+  
 📍 Itapevi – SP
 ## 🛠️ Linguagens e Tecnologias
 
