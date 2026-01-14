@@ -8,8 +8,6 @@ Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe 
   
 📍 Itapevi – SP
 
-📄 [Baixar meu currículo](https://raw.githubusercontent.com/Alex0Silva/curriculo/main/Currilo%20Alex1.pdf)
-
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
