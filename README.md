@@ -1,5 +1,6 @@
 ## # 👨‍💻 Alex Silva
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D000&width=400&lines=Ciência+da+Computação" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B4513&width=400&lines=Ciência+da+Computação" />
+
 
 Sou estudante de Ciência da Computação, em busca da minha primeira oportunidade de estágio na área de TI.  
 Tenho foco em aprender programação e desenvolver minhas habilidades técnicas todos os dias.  
