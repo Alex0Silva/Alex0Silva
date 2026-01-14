@@ -7,6 +7,9 @@ Estou focado em aprender programação e desenvolver minhas habilidades técnica
 Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe e contribuir com dedicação.  
   
 📍 Itapevi – SP
+
+📄 [Baixar meu currículo](https://github.com/Alex0Silva/curriculo/raw/main/Currilo%20Alex1.pdf)
+
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
