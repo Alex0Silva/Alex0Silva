@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação, em transição de carreira para a ár
 Estou focado em aprender programação e desenvolver minhas habilidades técnicas todos os dias.  
 Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe e contribuir com dedicação.  
   
-https://raw.githubusercontent.com/Alex0Silva/Alex0Silva/main/Currilo%20Alex1.pdf
+https://raw.githubusercontent.com/Alex0Silva/Curriculo/master/Currilo%20Alex1.pdf
 
 
 ## 🛠️ Linguagens e Tecnologias
