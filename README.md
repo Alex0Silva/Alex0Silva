@@ -1,4 +1,11 @@
-## ## 🛠️ Linguagens e Tecnologias
+## # 👨‍💻 Alex Silva
+
+![Ciência da Computação](https://img.shields.io/badge/Ciência_da_Computação-yellow?style=for-the-badge)
+
+Sou estudante de Ciência da Computação, em busca da minha primeira oportunidade de estágio na área de TI.  
+Tenho foco em aprender programação e desenvolver minhas habilidades técnicas todos os dias.  
+📍 Itapevi – SP
+## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
