@@ -13,3 +13,10 @@
 ## 📊 Minhas estatísticas
 ![Alex0Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
+<h2 style="color:black;">🖤 Portfólio</h2>
+
+<p>
+  Estudante de 
+  <span style="color:gold; font-weight:bold;">Ciência da Computação</span> 
+  focado em entrar na área de TI.
+</p>
