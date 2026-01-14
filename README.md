@@ -1,22 +1,29 @@
-## # 👋 Olá, eu sou o Alex0Silva!
+## # 👨‍💻 Alex
 
 🎓 Estudante de Ciência da Computação  
-💻 Focado em Programação e área de TI  
-🚀 Em busca da primeira oportunidade na área
+💻 Em transição de carreira para a área de TI  
+🚀 Buscando a primeira oportunidade na área
 
-## 🛠️ Tecnologias que estudo
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub followers](https://img.shields.io/github/followers/Alex0Silva?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositórios-ativos-blue?style=for-the-badge)
 
-## 📊 Minhas estatísticas
-![Alex0Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+---
 
-## 🖤 Portfólio
+## 🛠️ Linguagens e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
-Sou estudante de  
-![Ciência da Computação](https://img.shields.io/badge/Ciência_da_Computação-Amarelo-yellow?style=for-the-badge)
-Sou estudante de ![CC](https://img.shields.io/badge/Ciência_da_Computação-yellow?style=flat-square)
+---
+
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+
+
 
 
