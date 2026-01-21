@@ -1,4 +1,6 @@
-<h2>👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=300&lines=Alex+Silva" /></h2>
+<p align="left">
+  👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=300&lines=Alex+Silva" style="vertical-align: middle;" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B3FE4&width=500&lines=Estudante+de+Ciencia+da+Computacao" />
 
