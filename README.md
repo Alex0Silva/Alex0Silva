@@ -21,7 +21,7 @@ Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://img.shields.io/badge/Linux-7B3FE4?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="28" />
 
 </p>
 
