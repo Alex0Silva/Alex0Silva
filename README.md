@@ -7,7 +7,8 @@ Estou focado em aprender programação e desenvolver minhas habilidades técnica
 Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe e contribuir com dedicação.  
   
 
-https://raw.githubusercontent.com/Alex0Silva/currilo/main/Curriculo_Alex1.pdf
+
+📄 [Baixar meu currículo em PDF](https://raw.githubusercontent.com/Alex0Silva/currilo/main/Curriculo_Alex1.pdf)
 
 
 ## 🛠️ Linguagens e Tecnologias
