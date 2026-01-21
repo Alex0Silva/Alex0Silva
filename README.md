@@ -8,7 +8,6 @@ Busco uma oportunidade de estágio onde eu possa crescer, aprender com a equipe 
   
 
 https://raw.githubusercontent.com/Alex0Silva/currilo/main/Curriculo_Alex1.pdf
-https://github.com/Alex0Silva/Alex0Silva/blob/main/Curriculo_Alex1.pdf
 
 
 ## 🛠️ Linguagens e Tecnologias
