@@ -2,3 +2,6 @@
 
 ---
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B3FE4&width=400&lines=Ciencia+da+Computacao" />
+</p>
