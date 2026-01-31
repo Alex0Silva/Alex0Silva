@@ -14,4 +14,8 @@ Tenho interesse em oportunidades como estágio, suporte de TI ou desenvolvedor j
 ---
 
 
-[![Currículo](https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-PDF-7B3FE4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Alex0Silva/Alex0Silva/main/Curriculo_Alex1.pdf)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Alex0Silva/Alex0Silva/main/Curriculo_Alex1.pdf">
+    <img src="https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-PDF-7B3FE4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="60"/>
+  </a>
+</p>
