@@ -9,3 +9,6 @@
 Olá! Me chamo Alex, tenho 23 anos e sou estudante de Ciência da Computação.
 Estou em transição de carreira para a área de TI, um campo no qual sempre tive o sonho de trabalhar, e onde busco construir minha trajetória profissional.
 Tenho interesse em oportunidades como estágio, suporte de TI ou desenvolvedor júnior, utilizando o GitHub para praticar programação e organizar meus estudos por meio de projetos.
+
+
+[![Currículo](https://img.shields.io/badge/Baixar%20Curr%C3%ADculo-PDF-7B3FE4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Alex0Silva/Alex0Silva/main/Curriculo_Alex1.pdf)
