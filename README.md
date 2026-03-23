@@ -21,6 +21,7 @@ Tenho interesse em oportunidades como estágio, suporte de TI ou desenvolvedor j
 
 
 
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=600&lines=Tecnologias+e+ferramentas+em+estudo" />
 </p>
